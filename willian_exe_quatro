@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ESCONDIDINHO DE CARNE SECA</title>
+	<meta charset="utf-8">
+	<meta name="author" content="William Baborsa">
+	<meta name="description" content="Receita de ESCONDIDINHO DE CARNE SECA">
+	<meta name="keyworks" content="Receita, Escondidinho, carne, carne seca,">
+	<meta name="robots" content="index,follow">
+</head>
+<body>
+ <header>
+ 	<h1>ESCONDIDINHO DE CARNE SECA</h1>
+ 	
+ </header>
+ <nav><a href="HOME">HOME</a></nav>
+ <section>
+ 	<h2>Origem do Escondidinho</h2>
+ 	<p>Escondidinho é um prato bastante popular nos estados brasileiros do Nordeste. <br>Feito com carne-de-sol, jabá (charque ou carne-seca) ou frango desfiado, coberto com purê de macaxeira<br> (também conhecida como aipim ou mandioca), o escondidinho é temperado com manteiga de garrafa e gratinado com queijo coalho.</p>
+ 	<h3>INGREDIENTES</h3>
+ 	<p>1 kg de mandioca cozida <br> 1 lata de creme de leite com soro<br> 2 colheres de margarina <br>1/2 kg de carne-seca dessalgada e cozida<br>1 cebola média picadinha<br> 4 dentes de alho esmagados<br> 2 tomates sem casca e picados <br>sal e pimenta a gosto</p>
+ 	<img src=escondidinho_de_carne.jpg alt=“escondidinho_de_carne”>
+ 	<h4>MODO DE PREPARO</h4>
+ 	<p>Esprema a mandioca ainda quente e leve em uma panela com a margarina e sal.<br>Quando estiverem bem misturados acrescente o creme de leite, misture e reserve.<br>Refogue a cebola e o alho em um fio de azeite.<br>Acrescente a carne-seca desfiada e deixe fritar um pouco.<br>Acrescente os tomates e deixe cozinhar até ficarem murchos e acerte o sal se achar necessário.<br>Em um refratário untado com azeite, coloque uma camada do purê de mandioca, a carne seca e termine com o restante do purê.<br>Polvilhe com queijo parmesão ralado e leve ao forno pra gratinar.
+ 	</p>
+ </section>
+ <footer></footer>
+</body>
+</html>	
