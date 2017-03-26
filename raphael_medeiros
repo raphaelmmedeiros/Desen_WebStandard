@@ -1,0 +1,57 @@
+<!DOCTYPE html> 
+<hmtl> 
+<head>
+    <style type="text/css">
+    	h1 {text-align: center;
+    		color: #cd9545;
+    	}
+    	h2,h3 {color:#cd9545;}
+    	p {color:#58595b;}
+    	div{ width: all;
+    	     height: 470px;
+    	}
+    </style>
+    <title>ARROZ DE PUTA POBRE</title> 
+    <meta charset="utf-8">
+    <meta name="author" content="Raphael Medeiros">
+    <meta name="description" content="Receita de Risoto de Puta Pobre">
+    <meta name="keyword" content="receita,risoto,pobre,arroz,guerrilha">
+    <meta name="robots" content="index,follow"> 
+</head> 
+<body> 
+ <header> 
+    <div>
+        <center><img src="img_receita_fade.jpg"></center>
+    </div>
+    <h1>Arroz de Puta Pobre</h1> 
+
+ </header>
+ <section>
+    <h2>Origem do Prato</h2>
+    <p> De origem gaúcha, também chamado de "Arroz de China Pobre", é um prato muito simples preparado basicamente com arroz e linguiça.
+    <br>Cabe lembrar que "china" sempre foi uma maneira carinhosa com a qual o gaúcho chamava a sua mulher. Com o passar das gerações, 
+    <br>e o evoluir da língua, que é um organismo vivo alimentado pelos usos e costumes do povo, "china" passou a significar "concubina" e,
+    <br>logo a seguir, "rameira, meretriz, prostituta".
+    </p>
+    <h3>Ingredientes</h3>
+    <p>1 dente de alho;
+    <br>300g de arroz;
+    <br>50g de cenoura;
+    <br>50g de milho;
+    <br>400g de linguicinha;
+    <br>100g de cebola roxa;
+    <br>50g de ervilha
+    </p>
+    <h3>Modo de Preparo</h3>
+    <p>Frite no azeite (ou no óleo, dependendo da sua situação financeira) a cebola, o alho, a linguiça e os legumes até dourar. Em seguida,
+    <br>jogue o arroz e frite mais um pouco. Depois é só jogar um salzinho, cobrir com água e esperar o arroz ficar no ponto.
+    <br>Depois é só alegria, maravilha completa.
+    </p>
+ </section>
+<footer>
+	<p><center>Produção Multimídia 1o Semestre. Aluno: Raphael Mathias Medeiros</center></p>
+</footer>
+ </body>
+</html>  
+
+
